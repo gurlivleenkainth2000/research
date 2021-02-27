@@ -1,0 +1,16 @@
+{
+  "name": "researchwork",
+  "version": "1.0.0",
+  "description": "Image Processing from CCTV Footage or Videos by each frames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gurlivleen Singh Kainth",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.853.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
